@@ -1,0 +1,98 @@
+			body {
+				background-color: rgb(250,250,255);
+				margin:0;
+				
+			}
+				
+			#container {
+				font-family:verdana;
+				height:auto;
+				width:auto;
+			}	
+
+			.banner{
+				overflow:hidden;
+				color: white;
+		    	background-color:rgb(40,44,35);
+		    	position:relative;
+				width:100%;
+		    				}
+		    				
+		    #bannerEl {
+				text-align: justify;
+				margin-left:3%;
+				float:left;
+
+			}					
+
+			#nametag{
+				font-family:"georgia",times;
+				font-size:500%;
+				position:relative;
+
+			} 
+
+			ul {
+			    list-style-type: none;
+			    margin: 0;
+			    padding: 0;
+			}
+
+			li {
+			    display: inline;
+			    padding:10px;
+			}
+			#menu{
+				position: relative;
+				float:right;
+				margin-right:2%;
+				margin-top: 2%;
+				margin-bottom:1%;
+				vertical-align:middle;
+
+			} 
+			a:link {
+				color:rgb(255,204,153);
+				text-decoration:none;
+			}
+			a:visited {
+				color:white;
+				text-decoration:none;  
+				
+			}
+			.naulogo {
+				float:right;
+				padding:1%;
+			}  
+		
+			#textbody{
+				line-height:1.5;
+				overflow:hidden;
+				background: rgb(255,255,250);
+				color:rgb(15,11,50);
+				position:relative;
+				display:block;
+				margin:auto;
+				width:70%;
+				height:40%;
+
+			}
+			h2 {
+				font-family:"georgia",times;
+			}
+			
+			h3 {	
+		      	font-family: "georgia", times;
+		      	font-size: 150%;
+      		}
+
+			#contact{
+				font-size:80%;
+				position:relative;
+				float:left;
+				margin-left:5%;
+				margin-top:2%;
+				color:rgb(255,204,153);
+			} 
+			
+			
