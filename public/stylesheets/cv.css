@@ -1,0 +1,36 @@
+#page-img {
+    position:relative;
+    display:block;
+    margin:auto;
+    width: 70%;
+    height:30%;
+    padding-top:3%;
+ }
+ 
+    #croutson-img {
+          float:left;
+          padding:0.5% 3% 2% 0%;
+    } 
+
+
+#locallink {
+ color:blue;
+}
+
+#optional-img {
+ float:left;
+ padding-top:1%;
+          padding-right:5%;
+          padding-bottom: 5%;
+
+} 
+
+.styletag {   <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+#pad-text {
+padding:0% 10% 3% 10%;
+     
+}  
+
+
+
