@@ -6,7 +6,7 @@
 				
 			#container {
 				font-family:verdana;
-				height:auto;
+				min-height:100vh;
 				width:auto;
 			}	
 
