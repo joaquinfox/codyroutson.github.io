@@ -122,20 +122,8 @@ h3 {
   }
 }
 @media screen and (max-width: 500px) {
-	/* #bannerEl {
-	  font-size: 70%;
-	} */
-  
-	.naulogo img {
-	  width: 30%;
-	  padding-left: 20%;
-	}
-	/* #textbody {
-	  min-height: 70vh;
-	  width: 90%;
-	} */
-	/* #page-img {
-	  width: 90%;
-	} */
+  .naulogo img {
+    width: 30%;
+    padding-left: 20%;
   }
-  
+}
