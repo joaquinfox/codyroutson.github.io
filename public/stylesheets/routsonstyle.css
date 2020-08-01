@@ -113,5 +113,9 @@ h3 {
   }
   #textbody {
     min-height: 70vh;
+    width: 90%;
+  }
+  #page-img {
+    width: 90%;
   }
 }
